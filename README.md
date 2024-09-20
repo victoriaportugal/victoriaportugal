@@ -1,8 +1,12 @@
 
+
 ### Hello World! 👋
 
 My name is Victória Portugal, I am from Brazil (🇧🇷). I´ve been working with Front-End Development since 2023. Actually I work on personal projects, which I share here every week, in addition to freelance work :)
 
+![Hello, Simpsons!](https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif)
+
+<br>
 Would you like to find me?
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devvictoriafernandes/)
