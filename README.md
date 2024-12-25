@@ -1,7 +1,7 @@
 
 ### Hello World! 👋
 
-My name is Victória Portugal, I am from Brazil (🇧🇷). I´ve been working with Front-End Development since 2023. Actually I work on personal projects, which I share here every week, in addition to freelance work :)
+My name is Victória Portugal, I am from Brazil (🇧🇷). I’ve been exploring Data Science and Analytics since 2023. Currently, I work on personal projects, which I share here. :)
 
 ![Hello, Simpsons!](https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif)
 
