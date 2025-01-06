@@ -1,7 +1,7 @@
 
 ### Hello World! 👋
 
-"My name is Victória Portugal, I'm from Brazil (🇧🇷). I started my career as a software developer and have been exploring Data Science and Analytics since 2023. Currently, I enjoy diving deeper into data science concepts and working on personal projects, which I share here. :)"
+My name is Victória Portugal, I'm from Brazil (🇧🇷). I started my career as a software developer and have been exploring Data Science and Analytics since 2023. Currently, I enjoy diving deeper into data science concepts and working on personal projects, which I share here. :)
 
 ![Hello, Simpsons!](https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif)
 
